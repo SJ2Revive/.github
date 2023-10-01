@@ -1,4 +1,4 @@
-<h3>Oficjalna organizacja SJ2Revive na githuba</h3>
+<h3>Oficjalna organizacja SJ2Revive na githubie</h3>
 <h1>Witam! 👋</h1> 
 <p>jak wyzej wspomniane jest to oficjalna organizacja nasza na githubie.</br>
 Znajdziesz tutaj róźne nasze projekty,</br>
